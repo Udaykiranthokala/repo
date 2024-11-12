@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="portfolio.css">
+</head>
+<body>
+    <div class="navbar">
+        <div class="navbar-left">
+            <!-- <img class="logo-image" src="/Home.png" alt="logo" width="50px" height="">  -->
+        
+        </div>
+        <div class="navbar-right">
+            
+            <a class="a-element" href="#home-main">Home</a>
+            <a class="a-element" href="#about">About</a>
+            <a class="a-element" href="#Main-EDU">Education</a>
+            <a class="a-element" href="#skill">Skills</a>
+            <a class="a-element" href="#Details">Details</a>
+        </div>
+    </div>
+    
+    <div class="home-main" id="home-main">
+        <div class="home">
+            <div class="home-left">
+                <h1 class="home-h1">THOKAL UDAY KIRAN</h1>
+                <p class="home-p">Hello, I'm UDAY KIRAN, a passionate Bachelor's degree candidate in Mechanical Engineering at the Lakkireddy Bali Reddy College Of Engineering in Mylavaram. With a strong background in web development , I have honed my skills in  HTML,CSS,JAVASCRIPT, AND React</p>
+            </div>
+           <div class="home-right">
+                <img class="profile" src="/profil pic-modified.png" alt="my logo" height="350px" width="300px">
+            </div>
+        </div>
+    </div>
+
+        <div class="about-main"id="about">
+            <div class="about" >
+                <h1 class="about-h1">ABOUT</h1>
+                <div class="about-p">
+                     I am from Gudivad I completed B-tech In Lkkireddy Bali Reddy college Of Engineering .<br>And  My Intermeditate Completed In Narayana Jr College In Gudivada <br>And My Schooling in Z.P.H.School In Arugolanu 
+                </div>
+            </div>
+        </div>
+
+      
+    <div class="Main-EDU" id="Main-EDU">
+        <!-- <h1 class="edu-1">EDUCATION</h1> -->
+        <div  class="education" >
+            <div  class="scc">
+                <h1 class="sch">Schooling</h1>
+                <h2 class="sub-h">2018</h2    >
+                <p class="sub-h">Z.P.H school Arugolanu</p>
+                <h4 class="sub-h">C.G.P.A:8.8</h4> 
+            </div>
+            <div class="inter">
+                <h1 >INTERMEDIATE</h1>
+                <h2 class="sub-h">2020</h2    >
+                <p class="sub-h">Narayana Jr college Gudivada</p>
+                <h4 class="sub-h">C.G.P.A:9.0</h4> 
+            </div>
+            <div class="b-tech">
+                <h1  class="sch">B-tech</h1>
+                <h2 class="sub-h">2020-2024</h2    >
+                <p class="sub-h">Lakkireddy Bali Reddy College Of Engineering</p>
+                <h4 class="sub-h">C.G.P.A:7.91</h4> 
+            </div>
+        </div>
+        
+    </div>
+    <div class="skill" id="skill">
+        <!-- <h1 class="skill-h1">Skills</h1> -->
+        <div class="skill-sub-cont">
+            <div class="skill-card">
+                <h1 class="sk-h1">HTML</h1>
+                <p class="sk-p">HTML is the standard markup language for Web pages. With HTML you can create your own Website.HTML is easy to learn - You will enjoy it!</p>
+            </div>
+            <div class="skill-card1">
+                <h1 class="sk-h1">CSS</h1>
+                <p class="sk-p">CSS is the language we use to style an HTML document.   CSS describes how HTML elements should be displayed.  This tutorial will teach you CSS from basic to advanced.
+
+                  </p>
+            </div>
+            <div class="skill-card2">
+                <h1 class="sk-h1">JAVASCRIPT</h1>
+                <p class="sk-p">JavaScript is the world's most popular programming language.  JavaScript is the programming language of the Web.JavaScript is easy to learn.This tutorial will teach you JavaScript from basic to advanced.
+                    </p>
+            </div>
+        </div>
+
+        <div class="skill-2">
+            <div class="skill-sub-cont">
+                <div class="skill-card3">
+                    <h1 class="sk-h1">REACT</h1>
+                    <p class="sk-p">React is a JavaScript library for building user interfaces.React is used to build single-page applications.React allows us to create reusable UI components.</p>   
+                </div>
+                <div class="skill-card4">
+                    <h1 class="sk-h1">SQL</h1>
+                    <p class="sk-p">SQL is a standard language for storing, manipulating and retrieving data in databases.  Our SQL tutorial will teach you how to use SQL in: MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, and other database systems.
+                      </p>
+                </div>
+                <div class="skill-card5">
+                    <h1 class="sk-h1">C#</h1>
+                    <p class="sk-p">C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework.
+
+                        C# is used to develop web apps, desktop apps, mobile apps, games and much more.
+                        </p>
+                </div>
+           </div>
+       </div>    
+   </div>
+    <div class="Details" id="Details">
+        <div class="det">
+            <h1 class="ser-h1" id="change">Details</h1>
+            <p>udaykiranthokala@gmail.com</p>
+            <p>91+ 7793985911</p>
+            <p>ogirala,bapulpadu mandal, krishna,AP</p>
+            <div class="contact-info">
+                <a href="https://www.instagram.com/uday_kiran_thokala/?__pwa=1">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png" class="social-icon-img"  width="10px" height="10px">
+                 </a>
+                 <a href="">
+                   <img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" class="social-icon-img"  width="10px" height="10px">
+                 </a>
+                 <a href="">
+                   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" class="social-icon-img"  width="10px" height="10px">
+                 </a>
+                 <a href="">
+                   <img src="https://static-00.iconduck.com/assets.00/facebook-icon-2048x2048-pth4zu2i.png" class="test-logo" width="10px" height="10px">
+                 </a>
+           </div>    
+        </div>
+       
+    </div>
+        <script src="portfolio.js" >
+
+        </script>   
+</body>
+</html>
